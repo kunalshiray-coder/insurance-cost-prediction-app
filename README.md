@@ -389,6 +389,4 @@ streamlit run app.py
 
 ## 16. Author
 
-**Rushikesh Hiray**  
-Senior Data Scientist / ML Engineer  
-Portfolio project created as part of a Data Science and Machine Learning module.
+**Kunal Hiray**  

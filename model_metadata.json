@@ -1,0 +1,18 @@
+{
+    "model_name": "RandomForestRegressor",
+    "target_column": "PremiumPrice",
+    "n_rows_used_for_training": 986,
+    "n_features": 14,
+    "feature_engineering": [
+        "BMI = Weight / (Height in meters)^2",
+        "TotalHealthRisks = sum of six binary risk indicators",
+        "Age_BMI_Interaction = Age * BMI",
+        "Age_Surgery_Interaction = Age * NumberOfMajorSurgeries"
+    ],
+    "training_note": "Deployment model retrained on full dataset after model selection",
+    "artifact_files": {
+        "model_file": "deployment_artifacts/insurance_premium_random_forest.joblib",
+        "feature_file": "deployment_artifacts/model_features.json",
+        "metadata_file": "deployment_artifacts/model_metadata.json"
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\kunal\\anaconda3\\envs\\insurance-app\\python.exe",
+"python-envs.terminal.autoActivationType": "command",
+"python-envs.defaultEnvManager": "ms-python.python:conda",
+"python-envs.defaultPackageManager": "ms-python.python:conda"
+}

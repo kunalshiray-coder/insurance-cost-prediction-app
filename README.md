@@ -380,7 +380,7 @@ streamlit run app.py
 
 - **GitHub Repository:** https://github.com/kunalshiray-coder/insurance-cost-prediction-app
 - **Live App:** https://insurance-cost-prediction-app-lnzzellxzkgdlkj9baapau.streamlit.app/
-- **Tableau Public:** To be added
+- **Tableau Public:** [Tableau Story](https://public.tableau.com/views/InsuranceCostPrediction_17771013116120/InsuranceCostPredictionStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - **Technical Blog:** To be added
 - **Loom Demo Video:** To be added
 - **Final Submission PDF:** To be added

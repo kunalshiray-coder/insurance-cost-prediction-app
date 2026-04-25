@@ -1,0 +1,16 @@
+[
+    "Age",
+    "Diabetes",
+    "BloodPressureProblems",
+    "AnyTransplants",
+    "AnyChronicDiseases",
+    "Height",
+    "Weight",
+    "KnownAllergies",
+    "HistoryOfCancerInFamily",
+    "NumberOfMajorSurgeries",
+    "BMI",
+    "TotalHealthRisks",
+    "Age_BMI_Interaction",
+    "Age_Surgery_Interaction"
+]
